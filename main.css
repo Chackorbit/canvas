@@ -1,0 +1,16 @@
+/* #cnvs {
+    width: 400px;
+    height: 200px;
+    border: 1px solid red;
+    background: url(http://tutorial.promo.net.ua/images/js/setka.png);
+} */
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    overflow: hidden;
+
+
+}
